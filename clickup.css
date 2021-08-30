@@ -35,3 +35,16 @@ header {
 .nav_links li a {
     transition: all 0.3 ease 0s;
 }
+
+.nav_links li a:hover {
+    color: blue;
+}
+
+button {
+    padding: 9px 25px;
+    background-color: pink;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
