@@ -101,10 +101,10 @@ button:hover {
 ;}
 
 footer {
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color:
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: blue;
     display: flex;
     justify-content: space-between;
     padding: 30px 10%;
