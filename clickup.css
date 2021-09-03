@@ -13,6 +13,10 @@ body {
     margin: 100px 100 auto;
 }
 
+.container {
+    padding-left: 4vh;
+}
+
 li, a, button {
     text-decoration: none;
     cursor: pointer;
